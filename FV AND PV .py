@@ -102,8 +102,9 @@ def main():
         print("     🍁 THANK YOU,")
         print("     🍁 BUILD BY <JIHAD> ~ ©")
         print("        @ TAWFIQUR RAHMAN  ¿")
+        o = input("\n        Enter 1 for again.Or 2 for exit.")
         while True:
-             o = input("\n        Enter 1 for again.Or 2 for exit.")
+             
              
              if o == "1":
                  main()
