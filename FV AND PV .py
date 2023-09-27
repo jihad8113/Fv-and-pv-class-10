@@ -107,9 +107,11 @@ def main():
              
              
              if o == "1":
+                 clear()
                  main()
              elif o == "2":
-                 print("        Thanks. ")
+                 clear()
+                 print("\n\n\n\n\n        Thanks. ")
                  exit()
              else:
               print("        \n    ⚠️   ENTER 1 OR 2 ") 
