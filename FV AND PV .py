@@ -1,3 +1,7 @@
+import os 
+def clear():
+    os.system('clear')
+clear()
 # ❤️‍🔥 FV and PV solver 
 # use only number 
 
